@@ -1,7 +1,7 @@
 {
   "name": "prisma-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A beautiful and minimal dark syntax theme for Atom",
   "keywords": [
     "syntax",
