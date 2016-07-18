@@ -2,4 +2,4 @@
 
 A beautiful and minimal dark syntax theme for Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![LESS Example](http://www.cortes.us/wp-content/uploads/2016/07/prisma-less-example.png)
