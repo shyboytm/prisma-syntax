@@ -24,7 +24,7 @@
 
 
 **Activating theme**
-- Go to Atom -> Preferences..., click in the Themes tab, and select Dracula in the Syntax Theme dropdown.
+- Go to Atom -> Preferences..., click in the Themes tab, and select Prisma in the Syntax Theme dropdown.
 
 
 ## Examples
