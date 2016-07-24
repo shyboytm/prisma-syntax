@@ -1,9 +1,15 @@
 
 ![Cover Image](http://www.cortes.us/wp-content/uploads/2016/07/wdsfsfsf-2.png)
 
-## Download
+## To Install
 
-To download Prisma, download both the UI and Syntax package either from [my Atom profile](https://atom.io/users/fromcortes) or search for it in your theme settings within your Atom app.
+Install using Atom
+- Go to Atom -> Preferences...
+- Then select the Install tab
+- Click the Themes button to the right of the search box
+- Enter prisma-syntax in the search box
+- Install using Git
+- Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your ~/.atom/packages directory.
 
 ## Examples
 
