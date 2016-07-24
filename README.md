@@ -9,17 +9,17 @@ Install using Atom
 - Click the Themes button to the right of the search box
 - Enter prisma-syntax in the search box
 
-### Install Using Git
+**Install Using Git**
 - If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your ~/.atom/packages directory.
 
-### Install Using Command Line
+**Install Using Command Line**
 - You can also install right from the command line by running `npm install prisma-syntax`
 
-### Install Manually
+**Install Manually**
 - Download using the GitHub .zip download option and unzip them
 - Move the dracula-theme folder to ~/.atom/packages
 
-###Activating theme
+**Activating theme**
 - Go to Atom -> Preferences..., click in the Themes tab, and select Dracula in the Syntax Theme dropdown.
 
 
