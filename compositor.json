@@ -1,0 +1,95 @@
+{
+  "name": "fromcortes/prisma-syntax",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.19"
+  },
+  "title": "Prisma Syntax",
+  "branch": "master",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/fromcortes/prisma-syntax",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://npmjs.com/package/prisma-syntax",
+          "text": "npm"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "prisma-syntax",
+      "subhead": "A beautiful and minimal dark syntax theme for Atom",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "prisma-syntax: A beautiful and minimal dark syntax theme for Atom",
+          "url": ""
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "fromcortes",
+          "repo": "prisma-syntax"
+        }
+      ],
+      "text": "v2.1.3"
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<p></p>\n<h2>To Install</h2>\n<p><strong>Install using Atom</strong></p>\n<ul>\n<li>Go to Atom -&gt; Preferences...</li>\n<li>Then select the Install tab</li>\n<li>Click the Themes button to the right of the search box</li>\n<li>Enter prisma-syntax in the search box</li>\n</ul>\n<p><strong>Install Using Git</strong></p>\n<ul>\n<li>If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your ~/.atom/packages directory.</li>\n</ul>\n<p><strong>Install Using Command Line</strong></p>\n<ul>\n<li>You can also install right from the command line by running <code>npm install prisma-syntax</code></li>\n</ul>\n<p><strong>Install Manually</strong></p>\n<ul>\n<li>Download using the GitHub .zip download option and unzip them</li>\n<li>Move the dracula-theme folder to ~/.atom/packages</li>\n</ul>\n<p><strong>Activating theme</strong></p>\n<ul>\n<li>Go to Atom -&gt; Preferences..., click in the Themes tab, and select Prisma in the Syntax Theme dropdown.</li>\n</ul>\n<h2>Examples</h2>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/fromcortes/prisma-syntax",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/fromcortes",
+          "text": "fromcortes"
+        }
+      ]
+    }
+  ]
+}
